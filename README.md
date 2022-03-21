@@ -2,15 +2,15 @@
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "AMAAN"
+Name = "PRAVEEN"
 Hobby = ['Hacking•Cracking•LoGo-MakinG•DiGiTaL-Creating•Developing-Applications•YoutubinG':  '❣️']
 Age = "20"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/@CRIMINAL786-30302f?style=for-the-badge&logo=telegram)](https://t.me/CRIMINAL786)
-[![mailid badge](https://img.shields.io/badge/AMAAN-30302f?style=for-the-badge&logo=gmail)](mailto:AMAANTHEGAMERKING@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CRIMINAL786&label=Profile%20Views&color=orange&style=flat-square" alt="CRIMINAL786" /> </p>
+[![telegram badge](https://img.shields.io/badge/@JP_X63-30302f?style=for-the-badge&logo=telegram)](https://t.me/JP_X63)
+[![mailid badge](https://img.shields.io/badge/PRAVEEN-30302f?style=for-the-badge&logo=gmail)](mailto:JPRDX9470275496@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JPX62&label=Profile%20Views&color=orange&style=flat-square" alt="JPX62" /> </p>
 
 - 😄I'm Still Learning Git & GitHub
 - ☀️Python Lover
@@ -18,9 +18,9 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![CRIMINAL786 Git Stats](https://github-readme-stats.vercel.app/api?username=CRIMINAL786&include_all_commits=true&count_private=true&theme=highcontrast)
+![JPX62 Git Stats](https://github-readme-stats.vercel.app/api?username=JPX62&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRIMINAL786&layout=compact&theme=radical)](https://github.com/CRIMINAL786)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPX62&layout=compact&theme=radical)](https://github.com/JPX62)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
